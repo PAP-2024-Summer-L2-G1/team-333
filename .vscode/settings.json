@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./pap-l1-python-final-project-game-engine"
+    ]
+}
